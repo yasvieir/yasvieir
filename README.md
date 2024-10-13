@@ -5,7 +5,7 @@
 <!-- Icone -->
 
 <!-- Contador de visualizações do perfil -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroA07&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasvieir&color=yellow" alt="Profile views" /> </p>
 
 <!-- Introdução -->
 <p align="center"> Comecei a estudar em 2020, durante o ensino médio, integrei um técnico em informática e desde então fui me aprofundando na área até entrar na faculdade de Análise e Desenvolvimento de Sistemas na UNIP (Universidade Paulista), onde estou cursando o segundo semestre. 
