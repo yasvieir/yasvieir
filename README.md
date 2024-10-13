@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**yasvieir/yasvieir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Título -->
+<h1 align="center"> Olá, eu sou a Yasmin! </h1>
 
-Here are some ideas to get you started:
+<!-- Icone -->
+<img align="right" height="150" alt="Pedro-Icon" src="./img/icon.png"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Contador de visualizações do perfil -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroA07&color=yellow" alt="Profile views" /> </p>
+
+<!-- Introdução -->
+<p align="center"> Comecei a estudar em 2020, durante o ensino médio, integrei um técnico em informática e desde então fui me aprofundando na área até entrar na faculdade de Análise e Desenvolvimento de Sistemas na UNIP (Universidade Paulista), onde estou cursando o segundo semestre. 
+Desde então venho me interessando cada vez mais na área de tecnologia e principalmente na parte de análise de sistemas. </p>
