@@ -57,8 +57,5 @@ Desde então venho me interessando cada vez mais na área de tecnologia e princi
 ## 📞 Contatos:
 
 <div>
-  <a href="https://www.linkedin.com/in/pedroandradepereira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
-  <a href="https://twitter.com/home" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter"></a>
-  <a href="https://www.instagram.com/pedro.drad/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
-  <a href="https://steamcommunity.com/id/GamesPedr0/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank" alt="Steam"></a>
+  <a href="https://www.linkedin.com/in/yasmin-vieira-pinheiro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
 </div>
