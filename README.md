@@ -3,7 +3,6 @@
 <h1 align="center"> Olá, eu sou a Yasmin! </h1>
 
 <!-- Icone -->
-<img align="right" height="150" alt="Pedro-Icon" src="./img/icon.png"/>
 
 <!-- Contador de visualizações do perfil -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroA07&color=yellow" alt="Profile views" /> </p>
